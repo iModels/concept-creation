@@ -1,6 +1,8 @@
-description: 'Property of a concept'
+description: Property of a concept
 properties:
-    name: 
-        type: string
-    type: 
-        type: string
+  name:
+    type: string
+  type:
+    type: string
+name: property
+tags: []

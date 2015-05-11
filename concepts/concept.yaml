@@ -1,5 +1,7 @@
 description: 'The concept of a concept'
 properties:
+    name:
+        type: string
     description:
         description: 'Description of the concept'
         type: string

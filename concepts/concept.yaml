@@ -1,0 +1,10 @@
+description: 'The concept of a concept'
+properties:
+    description:
+        description: 'Description of the concept'
+        type: string
+    properties:
+        description: 'Properties of the concept'
+        type: dict
+    tags:
+        type: list

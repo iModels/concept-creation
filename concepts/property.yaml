@@ -1,0 +1,6 @@
+description: 'Property of a concept'
+properties:
+    name: 
+        type: string
+    type: 
+        type: string

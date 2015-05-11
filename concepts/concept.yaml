@@ -11,4 +11,5 @@ properties:
   tags:
     type: list
 name: concept
+isMeta: true
 tags: ['meta']

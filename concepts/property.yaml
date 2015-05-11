@@ -5,4 +5,5 @@ properties:
   type:
     type: string
 name: property
+customLabel: true
 tags: ['meta']

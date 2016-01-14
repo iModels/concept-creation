@@ -6,4 +6,5 @@ properties:
     type: string
 name: property
 customLabel: true
-tags: ['meta']
+tags:
+  - meta
